@@ -1,2 +1,2 @@
-# pemprograman-web
-Repo ini di gunakan untuk menyimpan hasil pratikum dari mata kuliah pemprograman web
+# pemrograman-web
+Repo ini digunakan untuk menyimpan hasil praktikum dari mata kuliah pemrograman web

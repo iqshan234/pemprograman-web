@@ -135,24 +135,7 @@
             </div>
          </div>
       </div>
-      <!-- end service -->
-      <!-- Download -->
-    
-      <!-- end Download -->
-      <!-- Testimonial -->
-       <!-- end Download -->
-      <!-- Testimonial -->
-    
-      <!-- end Testimonial --> 
-      <!--  footer --> 
       
-            <div class="copyright">
-               <p>Copyright 2020 All Right Reserved By <a href="https:/https://www.youtube.com/channel/UCEfdKbD-NnCbehXOe3np-7w">Free html Templates. </a>created by mohammad iqshan agustino dan yulianto arief</p>
-            </div>
-         </div>
-      </footr>
-      <!-- end footer -->
-      <!-- Javascript files--> 
       <script src="js/jquery.min.js"></script> 
       <script src="js/popper.min.js"></script> 
       <script src="js/bootstrap.bundle.min.js"></script> 

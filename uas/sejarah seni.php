@@ -45,7 +45,7 @@
                <div class="col-xl-5 col-lg-3 col-md-3 col-sm-3 col logo_section">
                   <div class="full">
                      <div class="center-desk">
-                        <div class="logo"> <a href="index.html">AKADEMI MATERI</a> </div>
+                        <div class="logo"> <a href="index.php">AKADEMI MATERI</a> </div>
                      </div>
                   </div>
                </div>
@@ -139,13 +139,6 @@
       <!-- end Testimonial --> 
       <!--  footer --> 
    
-            <div class="copyright">
-               <p>Copyright 2020 All Right Reserved By <a href="https:/https://www.youtube.com/channel/UCEfdKbD-NnCbehXOe3np-7w">Free html Templates. </a>created by mohammad iqshan agustino dan yulianto arief</p>
-            </div>
-         </div>
-      </footr>
-      <!-- end footer -->
-      <!-- Javascript files--> 
       <script src="js/jquery.min.js"></script> 
       <script src="js/popper.min.js"></script> 
       <script src="js/bootstrap.bundle.min.js"></script> 

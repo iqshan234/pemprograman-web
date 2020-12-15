@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Halaman Pegawai - www.malasngoding.com</title>
+	<title>dosen tif</title>
 
       <!-- basic -->
       <meta charset="utf-8">

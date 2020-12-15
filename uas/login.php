@@ -9,7 +9,7 @@
 	
 	<h1>silakan login</h1>
 	<center><h1>HANYA UNTUK DOSEN DAN ADMIN</h1></center>
-		<h4>Login dengan username dan password ini <br> (username: autogame dx69  password:shan3424) admin <br>(username: iqshan334 password: shan3424) user</h4>
+		<h4>Login dengan username dan password ini <br> (username: autogame dx69  password:shan3424) admin <br>(username: dosentif password: tif123) dosen tif<br>(username: dosendkv password: dkv123)dosen dkv</h4>
 	<?php 
 	if(isset($_GET['pesan'])){
 		if($_GET['pesan']=="gagal"){
